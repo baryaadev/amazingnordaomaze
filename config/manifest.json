@@ -1,6 +1,6 @@
 {
-  "name": "AmongFriends",
-  "short_name": "AmongFriends",
+  "name": "EldTrade",
+  "short_name": "EldTrade",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
